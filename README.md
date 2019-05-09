@@ -20,7 +20,7 @@
 
    
 
-###基本数据结构 Basic Abstract Data Type
+### 基本数据结构 Basic Abstract Data Type
 
 栈Stack, 队列Queue, 双端队列Deque, 列表List(无序列表Unordered List, 有序列表Ordered List).
 
@@ -52,4 +52,4 @@
 
 ### 树 Tree
 
-###图 Graph
+### 图 Graph
